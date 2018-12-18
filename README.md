@@ -1,10 +1,10 @@
-# Next.js website
+# CRESTO Platform WebApp
 
-The official website for Next.js
+The official webapp for Cresto.io
 
 ## Contribution
 
-To submit a feature, bug fix, or enhancement to the website proceed as follows:
+To submit a feature, bug fix, or enhancement to the webapp proceed as follows:
 
 1. Clone this repo
 2. Within your terminal, run `yarn` to install the dependencies
@@ -20,7 +20,7 @@ We really appreciate any contribution.
 4. Optimize both images
 5. Update `./showcase-manifest.js`
 
-## Related Repositories
+## Developers
 
-- [Next.js](https://github.com/zeit/next.js)
-- [Next.js Plugins](https://github.com/zeit/next-plugins)
+- [Ahmad John](https://ahmad.js.org)
+- [Mobin Arablou](https://mobinlion.github.io)
